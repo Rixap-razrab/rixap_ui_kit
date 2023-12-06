@@ -1,5 +1,5 @@
 {
-  "name": "@dimdimshishkov/rixap_ui_kit",
+  "name": "@ddshishkov/rixap_ui_kit",
   "version": "0.0.0-development",
   "description": "UI kit for Rixap",
   "main": "src/index.ts",
